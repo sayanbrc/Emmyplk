@@ -156,7 +156,7 @@ rmpv = "1.0"
 redis = { version = "0.23", default-features = false }
 #
 mlua = "0.8.9"
-pyo3 = "0.19"
+pyo3 = "0.21"
 #
 rustc_version = "0.4"
 cfg-if = "1.0"
